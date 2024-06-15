@@ -2,10 +2,7 @@
 # Hello, I'm Eunice 👋
 
 
-
-I'm a full stack engineer with a passion for crafting robust, scalable, and user-centric web applications. With a solid foundation in both frontend and backend development, I strive to deliver seamless digital experiences that delight users and drive business growth.
-
-
+Meet your go-to Backend Engineer with a flair for frontend tech! I thrive on crafting robust, scalable, and lightning-fast data systems. With expertise in microservices, Node.js, Nest JS, AWS, and Angular, I'm all about fun challenges. I love welcoming new perspectives, collaborating with cross-functional squads, and teaming up with anyone interested in discussing or learning technologies further.
 
 ## About Me
 
@@ -13,7 +10,7 @@ I'm a full stack engineer with a passion for crafting robust, scalable, and user
 
 engineering field.
 
-- 🎓 Bachelor's degree in Information Technology.
+- 🎓 Bachelor's degree in Science in Information Technology concenturated in cybersecurity.
 
 - 💼 Previous experience as a software engineer.
 
