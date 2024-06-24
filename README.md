@@ -12,6 +12,6 @@ engineering field.
 
 - 🎓 Bachelor's degree in Science in Information Technology concenturated in cybersecurity.
 
-- 💼 Previous experience as a software engineer.
+- 💼 Solid experienced software engineer.
 
 - 🔭 I’m currently seeking new opportunities in the software 
