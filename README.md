@@ -51,4 +51,3 @@ Meet your go-to Backend Engineer with a flair for frontend tech! I thrive on bui
 | NoSQL                               | SQL                                |
 | CloudWatch                          | Source Control Management: GIT     |
 | Splunk                              | Jekins                             |
-|-------------------------------------|------------------------------------|
