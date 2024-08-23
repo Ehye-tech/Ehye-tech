@@ -17,6 +17,9 @@ Meet your go-to Backend Engineer with a flair for frontend tech! I thrive on bui
 
 ## Featured Projects in my Repositories:
 
+
+[Gemini_NodeJs_prompt_API](https://github.com/Ehye-tech/Gemini_NodeJs_prompt_API): Generative AI using Gemini API
+
 [ecommerce-es](https://github.com/Ehye-tech/ecommerce-es): A Python-based e-commerce solution that leverages Elasticsearch for lightning-fast search capabilities. Updated regularly to implement best practices in search optimization and user experience.
 
 [Property Insight Dashboard](https://github.com/Ehye-tech/Property_Insight_Dashboard): A Python-powered dashboard that provides deep insights into property data using Elastic Search, helping businesses make informed decisions.
@@ -29,7 +32,6 @@ Meet your go-to Backend Engineer with a flair for frontend tech! I thrive on bui
 
 [SmartHomeDeviceManager](https://github.com/Ehye-tech/SmartHomeDeviceManager): Designed a REST API using JPA and Hibernate to manage smart home devices, ensuring efficient data handling and integration.
 
-[Gemini_NodeJs_prompt_API](https://github.com/Ehye-tech/Gemini_NodeJs_prompt_API): Generative AI using Gemini API
 
 ### **Skills**
 
