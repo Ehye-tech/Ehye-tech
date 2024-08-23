@@ -1,6 +1,6 @@
 
 # Hello, I'm Eunice 👋
-[![LinkedIn](![image](https://github.com/user-attachments/assets/99078b67-a4a7-43c6-a9dc-bcff519ef0e3)
+[![LinkedIn](![image](![image](https://github.com/user-attachments/assets/9b929890-c359-4610-9777-fd9bae6cbc59)
 )](www.linkedin.com/in/eun1ce-kang) 
 
 Meet your go-to Backend Engineer with a flair for frontend tech! I thrive on building scalable, efficient, and robust systems, particularly in the realms of microservices architecture and cloud computing. My toolkit includes Node.js, NestJS, AWS, and Angular, and I'm passionate about solving complex problems and optimizing systems for better performance. I'm always eager to collaborate with cross-functional teams, embrace new challenges, and continuously learn and adapt to new technologies.
